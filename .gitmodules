@@ -1,0 +1,3 @@
+[submodule "src/ion-maps"]
+	path = src/ion-maps
+	url = git@github.com:yannbf/ion-maps
